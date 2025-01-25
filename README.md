@@ -1,1 +1,1 @@
-# Feynn-Labs-Project-1
+# Feynn-Labs-Internship-Projects
