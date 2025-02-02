@@ -1,0 +1,1 @@
+The code implementation processes an EV dataset, including data uploading, exploration, preprocessing, and K-Means clustering for segmentation. It features Python-based machine learning and statistical analysis using Pandas and Scikit-learn.
